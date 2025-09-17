@@ -1,0 +1,9 @@
+py2neo==2021.2.3
+jieba==0.42.1
+streamlit==1.31.0
+plotly==5.18.0
+pandas==2.1.0
+networkx==3.1
+typing==3.7.4.3
+dataclasses==0.6
+pyvis==0.3.1 
